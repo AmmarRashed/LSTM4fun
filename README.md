@@ -1,4 +1,4 @@
-# LSTM4fun
+# mission_RNN
 Various applications of RNNs &amp; LSTMs designed in a tutorial step-by-step format
 </br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/2000px-TensorFlowLogo.svg.png" width=200>
