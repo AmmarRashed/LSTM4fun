@@ -1,4 +1,4 @@
-# LSTM4fun
+# mission_RNN
 Various applications of RNNs &amp; LSTMs designed in a tutorial step-by-step format
 </br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/2000px-TensorFlowLogo.svg.png" width=200>
@@ -6,8 +6,14 @@ Various applications of RNNs &amp; LSTMs designed in a tutorial step-by-step for
 
 <img src="https://raw.githubusercontent.com/peterroelants/peterroelants.github.io/master/notebooks/RNN_implementation/img/SimpleRNN02_1.png">
 
+# Tasks
+- <a href="https://github.com/AmmarRashed/LSTM4fun/blob/master/binary_addition.ipynb">Binary addition</a>
+- <a href="https://github.com/AmmarRashed/LSTM4fun/blob/master/letter_recognition.ipynb">Letter recognition</a>
+    - You can find my full repository on letter recognition with notMNIST dataset <a href="https://github.com/AmmarRashed/notMNIST"> here</a>
+
 # Data
 - Manually generated binary addition dataset
+- <a href="http://yaroslavvb.com/upload/notMNIST/"> notMNIST </a>
 
 # Libraries
 **Tested on Python 3.5**
