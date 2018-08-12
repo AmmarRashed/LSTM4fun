@@ -11,7 +11,8 @@ Various applications of RNNs &amp; LSTMs designed in a tutorial step-by-step for
 - <a href="https://github.com/AmmarRashed/LSTM4fun/blob/master/letter_recognition.ipynb">Letter recognition</a>
     - You can find my full repository on letter recognition with notMNIST dataset <a href="https://github.com/AmmarRashed/notMNIST"> here</a>
 - <a href="http://nbviewer.jupyter.org/github/AmmarRashed/mission_RNN/blob/master/How%20much%20did%20it%20rain/models.ipynb"> How much did it rain? II (Kaggle Competition)</a>
-- <a href="https://github.com/AmmarRashed/mission_RNN/blob/master/Reber%20Grammar.ipynb">Reber Grammar classification</a>
+- <a href="https://github.com/AmmarRashed/mission_RNN/blob/master/Reber%20Grammar.ipynb">Reber Grammar classification
+<img src="https://github.com/AmmarRashed/mission_RNN/raw/a1a670928becd35de1952b1db0707ee0b161b9b5/misc/embedded.gif"></a>
 
 # Data
 - Manually generated binary addition dataset
