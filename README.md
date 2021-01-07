@@ -2,7 +2,7 @@
 Various applications of RNNs &amp; LSTMs designed in a tutorial step-by-step format
 </br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/2000px-TensorFlowLogo.svg.png" width=200>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Peephole_Long_Short-Term_Memory.svg/2000px-Peephole_Long_Short-Term_Memory.svg.png" width=500>
+<img src="https://www.researchgate.net/profile/Xiaofeng_Yuan4/publication/331421650/figure/fig2/AS:771405641695233@1560928845927/The-structure-of-the-LSTM-unit.png" width=500>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Recurrent_neural_network_unfold.svg">
 
