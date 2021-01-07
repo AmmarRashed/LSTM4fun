@@ -4,7 +4,7 @@ Various applications of RNNs &amp; LSTMs designed in a tutorial step-by-step for
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/2000px-TensorFlowLogo.svg.png" width=200>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Peephole_Long_Short-Term_Memory.svg/2000px-Peephole_Long_Short-Term_Memory.svg.png" width=500>
 
-<img src="https://raw.githubusercontent.com/peterroelants/peterroelants.github.io/master/notebooks/RNN_implementation/img/SimpleRNN02_1.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Recurrent_neural_network_unfold.svg">
 
 # Tasks
 - <a href="https://github.com/AmmarRashed/LSTM4fun/blob/master/binary_addition.ipynb">Binary addition</a>
